@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mrityunjaykumar/educative/common_header/definitions.h
+
+/Users/mrityunjaykumar/educative/cpp-fundamentals/common.h
+
+/Users/mrityunjaykumar/educative/cpp-fundamentals/intro.cpp
+iostream
+-
+../common_header/definitions.h
+/Users/mrityunjaykumar/educative/common_header/definitions.h
+common.h
+/Users/mrityunjaykumar/educative/cpp-fundamentals/common.h
+

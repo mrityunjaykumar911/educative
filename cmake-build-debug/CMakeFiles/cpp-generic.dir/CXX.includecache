@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mrityunjaykumar/educative/common_header/definitions.h
+
+/Users/mrityunjaykumar/educative/cpp-generic/intro.cpp
+iostream
+-
+../common_header/definitions.h
+/Users/mrityunjaykumar/educative/common_header/definitions.h
+
